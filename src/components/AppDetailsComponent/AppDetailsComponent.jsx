@@ -2,6 +2,7 @@ import React from "react";
 import { BsDownload } from "react-icons/bs";
 import { FaStar } from "react-icons/fa6";
 import { TbFileLike } from "react-icons/tb";
+import RatingChart from "../RatingCharts/RatingCharts";
 
 const AppDetailsComponent = ({ app, handleInstall, isClicked }) => {
   return (

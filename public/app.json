@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Fbw8cqDs/1691751275tiktok-logo-png-black-and-white.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 1,
+    "description": "TikTok is a short-form video platform that has rapidly become one of the most influential social media apps in the world. Originally launched in China as Douyin, it expanded globally in 2018 following its merger with Musical.ly. TikTok enables users to create, share, and discover engaging videos ranging from comedy sketches and dance challenges to educational content and personal storytelling. The app’s unique algorithm curates content on the For You Page based on user behavior, creating a highly personalized experience. Its intuitive editing tools, sound libraries, and filters have empowered creators worldwide to express themselves creatively with minimal technical skills. TikTok has also revolutionized music promotion, with many songs gaining massive popularity through viral trends. Beyond entertainment, TikTok plays a role in political discourse, education, marketing, and cultural exchange. Its user base spans across generations, but it particularly resonates with Gen Z and Millennials. The app has over a billion downloads globally and continues to shape online culture with its emphasis on authenticity and creativity.",
+    "size": 150,
+    "reviews": 52000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 32000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jZ9gCrNm/9267b8300988de07fd0651c6c26ba933.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 2,
+    "description": "Facebook is one of the world’s largest and most enduring social media platforms, created by Mark Zuckerberg in 2004. Originally launched as a platform for college students to connect, it rapidly grew into a global network connecting billions of people. Facebook allows users to share text posts, photos, videos, and links, while also providing tools for creating pages, groups, and events. It has become a powerful medium for communication, news distribution, and community building. Over time, Facebook has integrated features like Marketplace, Reels, and Live streaming to stay relevant in the fast-evolving digital landscape. It also serves as a critical advertising platform for businesses, leveraging its vast user data to offer targeted marketing solutions. While it has faced scrutiny over privacy and misinformation, its impact on global communication is undeniable. Facebook has been instrumental in shaping how people connect, engage with content, and organize social movements. With billions of downloads and active users, it remains a cornerstone of the social web ecosystem.",
+    "size": 180,
+    "reviews": 88000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 42000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7dpK8h6Q/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 3,
+    "description": "Instagram is a visual-based social media platform launched in 2010 and acquired by Facebook (now Meta) in 2012. It revolutionized digital communication by focusing on sharing photos and short videos, fostering a global culture of storytelling through imagery. Initially popular among artists and photographers, Instagram has evolved into a multifaceted platform featuring Stories, Reels, IGTV, and Shopping. It is a dominant player in influencer marketing and brand promotion, with businesses using it to connect with customers in more personal, visual ways. Its Explore page algorithm suggests content tailored to users' interests, driving discovery and engagement. Instagram is also known for shaping aesthetic trends, fashion movements, and viral moments. It plays a key role in activism, education, and social discourse, making it more than just a photo-sharing app. With over 2 billion active users and continuous feature updates, Instagram remains a central hub for self-expression, creativity, and digital community building.",
+    "size": 170,
+    "reviews": 78000000,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 31000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MvhhkCn/youtube-transparent-youtube-play-button-png-download-clip-art-11.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "YouTube is the world’s largest video-sharing platform, founded in 2005 and acquired by Google in 2006. It enables users to upload, share, and watch videos across a vast range of categories, including music, education, entertainment, news, and more. YouTube has transformed how people consume media, allowing anyone to become a creator with global reach. Its recommendation algorithm personalizes viewing experiences, keeping users engaged with content tailored to their interests. Over the years, YouTube has introduced features like live streaming, Shorts, monetization programs, and Premium subscriptions to enhance user experience and support creators. It’s also a powerful educational resource, offering tutorials, lectures, and documentaries. For businesses and influencers, YouTube is a primary channel for branding, advertising, and audience engagement. Its cultural impact is immense—shaping music trends, political discourse, and global entertainment. With billions of monthly active users and trillions of views, YouTube stands as a cornerstone of the modern internet.",
+    "size": 220,
+    "reviews": 95000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 53000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZRjKMxsp/twitter-PNG1.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp",
+    "id": 5,
+    "description": "X, formerly known as Twitter, is a microblogging platform founded in 2006. It revolutionized real-time communication by allowing users to post short messages, or ‘tweets,’ that can rapidly spread across the globe. Known for its role in breaking news, political discourse, and cultural trends, X has been a central hub for journalists, celebrities, businesses, and everyday users alike. The platform introduced hashtags and trending topics, which became defining features of online conversations. Under Elon Musk’s leadership, Twitter rebranded to X, shifting toward becoming an ‘everything app’ that integrates payments, media, and communication. It offers features like Spaces (live audio), Subscriptions, and Communities, aiming to foster richer interactions. X has played a pivotal role in activism and global movements, amplifying voices worldwide. With its fast-paced, concise format, X remains an influential platform in shaping narratives, despite controversies over moderation and policy changes.",
+    "size": 130,
+    "reviews": 41000000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Vp2Vv83M/whatsapp-logo-png-photo-3.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "id": 6,
+    "description": "WhatsApp is a free messaging application that has transformed how people communicate globally. Launched in 2009 and acquired by Meta in 2014, WhatsApp offers secure, encrypted text messaging, voice calls, video calls, and multimedia sharing. Its end-to-end encryption ensures privacy, making it one of the most trusted communication tools worldwide. The app supports group chats, voice notes, document sharing, and even business communication through WhatsApp Business. With a simple interface and minimal ads, it appeals to users across all age groups. WhatsApp has also played a crucial role in connecting families, friends, and communities during global events, including crises. It is used extensively for both personal and professional communication, particularly in emerging markets. Its status feature, similar to Instagram Stories, adds a social layer to the platform. With billions of users and growing integrations, WhatsApp remains a global leader in instant messaging.",
+    "size": 110,
+    "reviews": 98000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 21000000 },
+      { "name": "5 star", "count": 63000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mC5WkPV3/9b2afd95c1ef07cf7006ddf233be6c43.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 7,
+    "description": "Spotify is a leading music streaming platform that revolutionized how people access and enjoy music. Founded in Sweden in 2006, Spotify offers on-demand access to millions of songs, podcasts, and audiobooks. It popularized the concept of streaming over ownership, providing both free ad-supported and premium subscription options. Spotify’s algorithmic playlists, such as Discover Weekly and Release Radar, personalize music recommendations, keeping users engaged. Its user-friendly interface, social features like playlist sharing, and cross-platform compatibility have contributed to its dominance in the audio streaming market. Spotify has also empowered independent artists through tools like Spotify for Artists, making it easier to distribute music globally. It plays a significant cultural role in promoting emerging talent and shaping global music trends. With over 500 million active users and strong brand loyalty, Spotify continues to lead the way in the streaming era.",
+    "size": 120,
+    "reviews": 47000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 26000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5f726hW/pinterest-logo-circle-p-in-red-png-24.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 8,
+    "description": "Pinterest is a visual discovery engine that allows users to find and save ideas for various projects and interests. Launched in 2010, Pinterest uses a pinboard-style layout where users can ‘pin’ images and videos to themed collections. It is particularly popular for inspiration in areas like fashion, home decor, recipes, DIY crafts, travel, and wellness. Unlike other social platforms focused on communication, Pinterest focuses on aspiration and planning, making it a go-to for creative minds and brands. Its recommendation system helps users discover new ideas tailored to their preferences. Pinterest also plays a role in e-commerce, with integrated shopping links that connect inspiration to action. It’s widely used by businesses for product promotion and audience engagement. The platform fosters a positive and visually stimulating environment, distinguishing it from other social media networks.",
+    "size": 95,
+    "reviews": 23000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z6N42bFh/linkedin-logo-style-png-8.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 9,
+    "description": "LinkedIn is the world’s largest professional networking platform, launched in 2003 and acquired by Microsoft in 2016. It enables professionals to connect, share insights, build careers, and explore job opportunities. LinkedIn has evolved from a digital resume platform into a dynamic hub for thought leadership, recruiting, and business development. It offers tools for job seekers, recruiters, and companies, including LinkedIn Learning, which provides a wide range of professional development courses. LinkedIn’s algorithm surfaces content that aligns with users’ industries and interests, fostering meaningful professional engagement. It’s also a powerful marketing platform, especially for B2B companies looking to connect with decision-makers. With its emphasis on credibility, networking, and learning, LinkedIn stands apart from traditional social media platforms. It continues to shape the future of work by empowering millions of professionals worldwide.",
+    "size": 130,
+    "reviews": 16000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 6800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YF2JXwtT/Netflix-Logo-PNG-Image.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 10,
+    "description": "Netflix is a global streaming platform that has redefined how audiences consume television and film. Founded in 1997 as a DVD rental service, it transitioned to streaming in 2007 and has since become a cultural powerhouse. Netflix offers a vast library of TV shows, films, documentaries, and original productions, often released simultaneously worldwide. Its recommendation engine personalizes viewing experiences, helping users discover new favorites. Netflix’s original content, including hits like Stranger Things, The Crown, and Squid Game, has set new standards for entertainment production. Available on virtually every device, Netflix provides ad-free viewing with various subscription tiers. It has also invested heavily in international programming, expanding its global influence. With its innovative approach to content delivery and storytelling, Netflix has transformed the entertainment industry and continues to shape the future of streaming media.",
+    "size": 200,
+    "reviews": 52000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 13000000 },
+      { "name": "5 star", "count": 27500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Gmail is Google’s free email service that has become a cornerstone of digital communication since its launch in 2004. Renowned for its intuitive interface, powerful spam filtering, and generous storage, Gmail has revolutionized how individuals and organizations manage emails. It seamlessly integrates with Google Workspace products such as Drive, Meet, and Calendar, enabling users to collaborate efficiently. Gmail’s tabbed inbox organizes messages into categories like Primary, Social, and Promotions, improving productivity and reducing clutter. With built-in smart replies, advanced search, labels, and filters, it offers a user-friendly and efficient email management experience. Gmail’s security features—including two-step verification, phishing detection, and encryption—make it a trusted platform for billions of users. Whether for personal or professional use, Gmail is a vital communication tool globally.",
+    "size": 100,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 10200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DDpnhjn0/Google-Maps-Logo-PNG-Photos.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Google Maps is a comprehensive mapping and navigation application that has transformed how people explore the world. Launched in 2005, it provides detailed maps, real-time traffic updates, turn-by-turn navigation, street-level imagery, and information about businesses and landmarks. Google Maps is used globally by commuters, travelers, and businesses for planning routes and discovering new places. Its integration with ride-hailing, public transit data, and offline maps makes it indispensable. Beyond navigation, Google Maps contributes to urban planning, logistics, and emergency response efforts. Features like Street View and Live View offer immersive exploration, while user reviews and contributions enhance location accuracy. Its combination of powerful technology and crowd-sourced information has made it the leading navigation app worldwide.",
+    "size": 180,
+    "reviews": 19000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 8300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/93zYZFBp/Zoom-Logo-PNG-Image.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 13,
+    "description": "Zoom is a leading video conferencing platform that became a household name during the COVID-19 pandemic. Launched in 2011, Zoom provides reliable video, audio, and chat communication for individuals, businesses, and educational institutions. Its ease of use, screen sharing, breakout rooms, and recording capabilities make it ideal for remote work, online classes, and virtual events. Zoom’s cross-platform compatibility ensures users can connect seamlessly from any device. It has played a crucial role in enabling global communication during lockdowns, redefining how organizations operate. With constant updates to enhance security and functionality, Zoom continues to be a leader in digital communication and collaboration technology.",
+    "size": 140,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DPT5X7rZ/telegram-PNG25.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "id": 14,
+    "description": "Telegram is a cloud-based messaging app known for its speed, security, and flexibility. Founded in 2013 by Pavel Durov, it allows users to send text messages, voice notes, media, and files with end-to-end encryption. Unlike many competitors, Telegram emphasizes privacy and independence, offering features like Secret Chats and self-destructing messages. It supports massive group chats and public channels, making it a popular platform for communities, activists, and businesses. Telegram also offers bots, APIs, and cloud storage, enhancing its functionality beyond basic messaging. Its cross-device synchronization and minimal ads contribute to a clean, user-friendly experience.",
+    "size": 95,
+    "reviews": 17000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 9400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tp00ZCpx/amazon-logo-transparent.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com Inc.",
+    "id": 15,
+    "description": "Amazon is one of the world's largest e-commerce platforms, providing a seamless shopping experience to millions of users. Founded by Jeff Bezos in 1994, Amazon’s app offers an extensive catalog of products, from electronics to groceries, delivered directly to consumers’ doors. It’s renowned for its reliable shipping, competitive pricing, and personalized recommendations powered by sophisticated algorithms. Features like Prime membership, same-day delivery, and integrated customer reviews have made it a trusted name globally. Amazon’s app also serves as a gateway to its services like Prime Video, Alexa, and Kindle. It continues to redefine online shopping by combining convenience, speed, and vast selection in one platform.",
+    "size": 180,
+    "reviews": 28000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RpkDZ600/Uber-Logo-PNG-Pic.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 16,
+    "description": "Uber is a ride-hailing platform that revolutionized urban transportation since its launch in 2009. It connects riders with drivers through a seamless app experience, offering various transportation options including UberX, Pool, and luxury rides. Uber’s intuitive interface, transparent pricing, and real-time GPS tracking make it convenient and efficient for millions of users. The platform has expanded beyond ride-hailing to include Uber Eats, freight services, and micro-mobility options. Uber has transformed how cities move, enabling greater accessibility and convenience. It’s also a major player in the gig economy, providing flexible earning opportunities for drivers globally.",
+    "size": 160,
+    "reviews": 32000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5XgS5XWf/large-snapchat-logo-png-2.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 17,
+    "description": "Snapchat is a multimedia messaging app that popularized ephemeral content and AR filters. Launched in 2011, it allows users to send snaps—photos and videos—that disappear after viewing. Its innovative features like Stories, Snap Map, Bitmojis, and AR Lenses have made it especially popular among younger audiences. Snapchat blends personal messaging with entertainment, offering Discover content from publishers and creators. The app’s focus on privacy and real-time sharing creates a unique, authentic social experience. Over the years, it has also become a key platform for AR innovation and marketing campaigns.",
+    "size": 150,
+    "reviews": 27000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bg4gVG3b/reddit-logo-png-5b78.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 18,
+    "description": "Reddit is a social platform built around communities, known as subreddits, that focus on virtually every topic imaginable. Founded in 2005, it combines the structure of a forum with the virality of social media. Users can post text, images, and links, which others upvote or downvote to determine visibility. Reddit has played a key role in shaping online culture, with communities driving discussions, memes, activism, and collective knowledge. Its open and community-driven nature makes it a powerful platform for both niche interests and major global conversations. From breaking news to hobby forums, Reddit connects millions worldwide.",
+    "size": 110,
+    "reviews": 15000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 6100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdFJqYp1/DUOL-5baebe62.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 19,
+    "description": "Duolingo is a gamified language-learning app that has made education accessible to millions worldwide. Launched in 2012, it offers courses in over 30 languages through bite-sized lessons that feel like games. Duolingo’s interface encourages daily practice with rewards, streaks, and leaderboards. Its adaptive learning algorithm personalizes lessons to users’ progress, making language acquisition effective and fun. The platform also incorporates speaking, listening, reading, and writing exercises. With its free model and optional premium subscription, Duolingo has democratized language learning. It’s widely used by students, travelers, and lifelong learners alike.",
+    "size": 85,
+    "reviews": 12000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MkzxWhrV/Discord-Logo-PNG-Pic.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 20,
+    "description": "Discord is a communication platform initially created for gamers but now widely used for communities of all kinds. Launched in 2015, it combines voice, video, and text chat in an intuitive interface. Users can create servers with channels for different topics, making it ideal for both casual and professional use. Discord’s low-latency voice chat, screen sharing, and bot integration make it a favorite for teams, educators, and hobbyists. It has grown into a vibrant ecosystem for communities ranging from gaming clans to educational groups and professional networks. With Nitro subscriptions, users can enhance their experience with additional features.",
+    "size": 130,
+    "reviews": 14000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 6900000 }
+    ]
+  }
+]

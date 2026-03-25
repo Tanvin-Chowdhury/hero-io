@@ -6,7 +6,6 @@ import AllApps from "../components/AllApps/AllApps";
 import InstalledApps from "../components/InstalledApps/InstalledApps";
 import AppDetails from "../components/AppDetails/AppDetails";
 import Error from "../components/Error/Error";
-import AppError from "../components/AppError/AppError";
 
 const router = createBrowserRouter([
   {

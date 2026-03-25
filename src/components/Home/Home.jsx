@@ -1,7 +1,7 @@
 import React from "react";
 import Banner from "../Banner/Banner";
-// import State from "../State/State";
-// import TrendingApps from "../TrendingApps/TrendingApps";
+import State from "../State/State";
+import TrendingApps from "../TrendingApps/TrendingApps";
 import useFetchApp from "../../Hooks/useFetchApps";
 import Loader from "../Loader/Loader";
 import Error from "../Error/Error";

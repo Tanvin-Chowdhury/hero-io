@@ -12,7 +12,6 @@ const AppDetails = () => {
   const { apps, loading, error } = useFetchApp();
 
   const app = apps.find((a) => String(a.id) === String(id));
-  console.log(app?.image);
 
   const INSTALLED_KEY = "installedApps";
 
